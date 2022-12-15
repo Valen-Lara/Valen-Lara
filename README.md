@@ -23,7 +23,7 @@ My individual project from Henry's bootcamp, where I apply the knowledge given i
 I leave the link to the repo so you can see it: https://github.com/Valen-Lara/PI-VIDEOGAMES
 
 How to reach me:
-Mail: valenlara899@gmail.com
+Mail: valenlara899@gmail.com<br/>
 Linkedin: https://www.linkedin.com/in/valentin-lara-86783b245/
 <!--
 **Valen-Lara/Valen-Lara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
