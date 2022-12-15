@@ -22,7 +22,7 @@ CSS
 My individual project from Henry's bootcamp, where I apply the knowledge given in it using JavaScript as the language and technologies such as React, Redux, SQL, Express, NodeJS, HTML and CSS among others. It was a feat of time, discipline and organization that after 3 arduous weeks I managed to carry out.
 I leave the link to the repo so you can see it: https://github.com/Valen-Lara/PI-VIDEOGAMES
 
-How to reach me:
+How to reach me:<br/>
 Mail: valenlara899@gmail.com<br/>
 Linkedin: https://www.linkedin.com/in/valentin-lara-86783b245/
 <!--
