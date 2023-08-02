@@ -26,7 +26,7 @@ I leave the link to the repo so you can see it: https://github.com/Valen-Lara/PI
 *FisiomFulness*<br/>
 Page of blogs and sale of products. Implementation of CRUD for blogs, products, comments and users.
 Technologies used: JavaScript, Node.js, Express, MongoDB, Redux Toolkit.
-//[FisiomFulness(#)]
+
 
 How to reach me:<br/>
 Mail: valenlara899@gmail.com<br/>
